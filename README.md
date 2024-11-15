@@ -1,5 +1,5 @@
 ### **Title**  
-**"Phishing Detection: Leveraging URL Features for Accurate and Robust Classification"**
+**Phishing Detection: Leveraging URL Features for Accurate and Robust Classification**
 
 ---
 
